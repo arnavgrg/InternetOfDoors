@@ -1,0 +1,6 @@
+Alert from DoorLock!
+Suspicious entry prevented!
+We think that someone might be trying to unlock your door.
+If this was you, please ignore this email.
+Otherwise, we recommend checking the lock and changing your password to prevent future attacks.
+If you need instructions on how to use your lock, click: http://group12engr96.scienceontheweb.net/

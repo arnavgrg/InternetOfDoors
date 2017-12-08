@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<style>
+#pageheading{font-weight: 2pt; font-size: 25pt; font-family: helvetica;}
+#pagesubheading{font-weight: 2pt; font-size: 15pt; font-family: helvetica;}
+#pagesubsubheading{font-weight: 2pt; font-size: 12pt; font-family: helvetica;}
+#step{font-size: 15pt; font-family: helvetica; font-weight: 5pt;}
+#stepdescription{font-size: 12pt;font-family: helvetica;font-weight: 2pt;}
+#listinput{font-size: 12pt; font-family: helvetica; width: 50%;text-align: center;color: black;}
+body{background: white; color: black; font-family: helvetica;}
+</style>
+<head>
+	<title> Group 12 Project - Instructions: Internet Of Doors </title>
+</head>
+<body>
+<div align="right">
+	<div id="pageheading" align="center"><b> Internet Of Doors </b></div>
+        <div id="subsubheading" align="center"><b>Group 12</b></div>
+	<div id="pagesubheading" align="center"><b> Instructions </b></div>
+</div>
+	<hr color="black" width="35%">
+<div align="center">
+	<img src="Diagram1.PNG" alt="diagram1" align="center" width="400" height="250">
+</div>
+<br>
+<div>
+	<div id="step" align="center"><b> Step 1 </b></div>
+	<div id="stepdescription" align="center">Enter the code below into the terminal, then hit the enter key. </div>
+        <div id="stepdescription" align="center"><code>./project r01.cs.ucla.edu 12000</code></div>
+</div>
+<br>
+<div>
+	<div id="step" align="center"><b> Step 2 </b></div>
+	<div id="stepdescription" align="center">Press and hold the button when you are ready.</div>
+</div>
+<br>
+<div>
+	<div id="step" align="center"><b> Step 3 </b></div>
+	<div id="stepdescription" align="center">While pressing the button, hold the light sensor in your other hand. </div>
+</div>
+<br>
+<div>
+	<div id="step" align="center"><b> Step 4 </b></div>
+	<div id="stepdescription" align="center"> You can input a 0,1 or 2 using the instructions below: 
+	<table id="listinput">
+		<tr> 
+			<td><b> 0:</b> Partially cover the light sensor </td>
+		</tr>
+		<tr> 
+			<td><b>&nbsp; &nbsp; &nbsp; &nbsp;1:</b> Expose the light sensor completely </td>
+		</tr>
+		<tr>
+			<td><b>&nbsp; &nbsp;&nbsp; 2:</b> Cover the light sensor completely </td>
+		</tr>
+	</table>
+	</div>
+<br>
+<div>
+	<div id="step" align="center"><b> Step 5 </b></div>
+	<div id="stepdescription" align="center"> Release button to input the character. </div>
+</div>
+<br>
+<div>
+	<div id="step" align="center"><b> Step 6 </b></div>
+	<div id="stepdescription" align="center"> Repeat step 2-5 fives times to enter all 5 characters of the password. </div>
+</div>
+<br>
+<div>
+	<div id="step" align="center"><b> Step 7 </b></div>
+	<div id="stepdescription" align="center"> Repeat steps 2-6 if you entered the wrong password. </div>
+</div>
+<div>
+        <p align="center" style="font-size: 10pt; font-family: helvetica;"><b> &copy; Group 12 | Fall 17 | UCLA </b></p>
+</div>
+</div>
+</body>
+</html>
