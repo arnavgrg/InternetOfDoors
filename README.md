@@ -2,6 +2,7 @@
 IoT and Web Security based lock system using a BeagleBone.
 
 # CodeImplementation
+After placing the files on your desktop, run the following using putty: <br>
 gcc -lmraa -o project project2.cpp </br>
 ./project r01.cs.ucla.edu 12000 
 
@@ -11,7 +12,7 @@ Input Value: N (where N is either 0, 1 or 2) [On release of the button] </br>
 User Input: The 5-character password entered </br>
 A message that the password was sent to the server (User input successfully sent to server) and the server response: </br>
 &nbsp; &nbsp; &nbsp; Yes </br>
-&nbsp; &nbsp; &nbsp; No, N attempts left (where N is 2, 1 or 0) </br>
+&nbsp; &nbsp; &nbsp;No, N attempts left (where N is 2, 1 or 0)</br>
 
 If the password is entered correct, the server will respond with ‘Group12 YES’ </br>
 If the password is entered incorrectly three times, then </br>
